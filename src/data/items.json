@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Chaeyoung",
+    "price": 10.99,
+    "imgUrl": "/imgs/cy.jfif"
+  },
+  {
+    "id": 2,
+    "name": "Momo",
+    "price": 1199,
+    "imgUrl": "/imgs/mm.jfif"
+  },
+  {
+    "id": 3,
+    "name": "Mina",
+    "price": 1.05,
+    "imgUrl": "/imgs/mn.jfif"
+  },
+  {
+    "id": 4,
+    "name": "Sana",
+    "price": 14000,
+    "imgUrl": "/imgs/sn.jfif"
+  }
+]
